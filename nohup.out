@@ -1,0 +1,247 @@
+  executor.py [ LINE:351 ] INFO     [2021-01-30 12:00:40,614] Bot: All.Flowbot [@flo_test1221bot]
+  executor.py [ LINE:347 ] WARNING  [2021-01-30 12:00:40,733] Updates were skipped successfully.
+dispatcher.py [ LINE:336 ] INFO     [2021-01-30 12:00:40,733] Start polling.
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:00:40,847] Received message [ID:33326] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:00:41,019] Process update [ID:786452190]: [success] (in 171 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:04:03,846] Received message [ID:33328] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:04:03,965] Process update [ID:786452191]: [success] (in 119 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:04:12,541] Received message [ID:33330] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:04:13,166] Process update [ID:786452192]: [success] (in 625 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:04:34,854] Received message [ID:33338] in chat [private:581188797]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:04:35,224] Process update [ID:786452193]: [success] (in 370 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-30 12:04:36,465] Received callback query [ID:2496186876779492512] from user [ID:581188797] for message [ID:33339] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-30 12:04:37,399] Unhandled callback query [ID:2496186876779492512] from user [ID:581188797] for message [ID:33339] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:04:37,400] Process update [ID:786452194]: [success] (in 935 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-30 12:04:41,605] Received callback query [ID:2496186876844574903] from user [ID:581188797] for message [ID:33348] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-30 12:04:41,841] Unhandled callback query [ID:2496186876844574903] from user [ID:581188797] for message [ID:33348] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:04:41,842] Process update [ID:786452195]: [success] (in 237 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:04:46,001] Received message [ID:33351] in chat [private:581188797]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:04:46,108] Process update [ID:786452196]: [success] (in 107 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-30 12:04:47,720] Received callback query [ID:2496186879574740400] from user [ID:581188797] for message [ID:33352] in chat [private:581188797] originally posted by user [ID:1435159375]
+  executor.py [ LINE:351 ] INFO     [2021-01-30 12:12:07,669] Bot: All.Flowbot [@flo_test1221bot]
+  executor.py [ LINE:347 ] WARNING  [2021-01-30 12:12:07,767] Updates were skipped successfully.
+dispatcher.py [ LINE:336 ] INFO     [2021-01-30 12:12:07,768] Start polling.
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:07,866] Received message [ID:33358] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:08,196] Process update [ID:786452204]: [success] (in 331 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:32,636] Received message [ID:33360] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:32,800] Process update [ID:786452205]: [success] (in 164 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:34,387] Received message [ID:33362] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:34,549] Process update [ID:786452206]: [success] (in 162 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:35,922] Received message [ID:33364] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:36,015] Process update [ID:786452207]: [success] (in 93 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:37,067] Received message [ID:33366] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:37,209] Process update [ID:786452208]: [success] (in 143 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:38,242] Received message [ID:33368] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:38,341] Process update [ID:786452209]: [success] (in 99 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:39,689] Received message [ID:33370] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:39,779] Process update [ID:786452210]: [success] (in 90 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:46,384] Received message [ID:33372] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:46,490] Process update [ID:786452211]: [success] (in 106 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:47,455] Received message [ID:33374] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:47,580] Process update [ID:786452212]: [success] (in 125 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:48,751] Received message [ID:33376] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:48,891] Process update [ID:786452213]: [success] (in 140 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:49,995] Received message [ID:33378] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:50,108] Process update [ID:786452214]: [success] (in 114 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:51,300] Received message [ID:33380] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:51,443] Process update [ID:786452215]: [success] (in 143 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:53,080] Received message [ID:33382] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:53,144] Process update [ID:786452216]: [success] (in 64 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:12:57,317] Received message [ID:33384] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:12:58,663] Process update [ID:786452217]: [success] (in 1346 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:13:08,153] Received message [ID:33398] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:13:08,257] Process update [ID:786452218]: [success] (in 104 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:13:10,517] Received message [ID:33400] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:13:10,699] Process update [ID:786452219]: [success] (in 182 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:13:12,808] Received message [ID:33402] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:13:12,929] Process update [ID:786452220]: [success] (in 121 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:13:14,748] Received message [ID:33404] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:13:14,843] Process update [ID:786452221]: [success] (in 95 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:13:17,817] Received message [ID:33406] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:13:18,356] Process update [ID:786452222]: [success] (in 540 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:13:30,397] Received message [ID:33413] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:13:30,485] Process update [ID:786452223]: [success] (in 88 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:13:38,851] Received message [ID:33415] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:13:38,981] Process update [ID:786452224]: [success] (in 131 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 12:16:27,784] Received message [ID:33417] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 12:16:27,911] Process update [ID:786452225]: [success] (in 127 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-30 13:11:44,446] Received callback query [ID:2496186878029429661] from user [ID:581188797] for message [ID:33352] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-30 13:11:44,447] Unhandled callback query [ID:2496186878029429661] from user [ID:581188797] for message [ID:33352] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 13:11:44,447] Process update [ID:786452226]: [success] (in 1 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-30 13:44:16,775] Received callback query [ID:1687388546441684040] from user [ID:392875761] for message [ID:33412] in chat [private:392875761] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-30 13:44:16,949] Unhandled callback query [ID:1687388546441684040] from user [ID:392875761] for message [ID:33412] in chat [private:392875761] originally posted by user [ID:1435159375]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 13:44:16,949] Process update [ID:786452227]: [success] (in 175 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 13:44:19,425] Received message [ID:33420] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 13:44:19,507] Process update [ID:786452228]: [success] (in 82 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 13:44:21,516] Received message [ID:33422] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 13:44:21,609] Process update [ID:786452229]: [success] (in 92 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 14:26:36,294] Received message [ID:33424] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 14:26:36,378] Process update [ID:786452230]: [success] (in 84 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 20:12:43,153] Received message [ID:33426] in chat [private:581188797]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 20:12:43,232] Process update [ID:786452231]: [success] (in 79 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 20:12:51,094] Received message [ID:33428] in chat [private:581188797]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 20:12:51,274] Process update [ID:786452232]: [success] (in 181 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-30 20:12:53,769] Received callback query [ID:2496186879218604775] from user [ID:581188797] for message [ID:33429] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-30 20:12:54,555] Unhandled callback query [ID:2496186879218604775] from user [ID:581188797] for message [ID:33429] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 20:12:54,555] Process update [ID:786452233]: [success] (in 786 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-30 20:13:03,256] Received callback query [ID:2496186876890477797] from user [ID:581188797] for message [ID:33437] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-30 20:13:03,381] Unhandled callback query [ID:2496186876890477797] from user [ID:581188797] for message [ID:33437] in chat [private:581188797] originally posted by user [ID:1435159375]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 20:13:03,381] Process update [ID:786452234]: [success] (in 126 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-30 20:13:07,561] Received message [ID:33440] in chat [private:581188797]
+   logging.py [ LINE:34  ] INFO     [2021-01-30 20:13:07,690] Process update [ID:786452235]: [success] (in 129 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-30 20:13:11,660] Received callback query [ID:2496186879059760759] from user [ID:581188797] for message [ID:33441] in chat [private:581188797] originally posted by user [ID:1435159375]
+  executor.py [ LINE:351 ] INFO     [2021-01-31 18:47:33,097] Bot: All.Flowbot [@flo_test1221bot]
+  executor.py [ LINE:347 ] WARNING  [2021-01-31 18:47:33,197] Updates were skipped successfully.
+dispatcher.py [ LINE:336 ] INFO     [2021-01-31 18:47:33,197] Start polling.
+   logging.py [ LINE:37  ] INFO     [2021-01-31 18:47:33,293] Received message [ID:33461] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-31 18:47:33,465] Process update [ID:786452255]: [success] (in 172 ms)
+  executor.py [ LINE:351 ] INFO     [2021-01-31 18:55:06,025] Bot: All.Flowbot [@flo_test1221bot]
+  executor.py [ LINE:347 ] WARNING  [2021-01-31 18:55:07,137] Updates were skipped successfully.
+dispatcher.py [ LINE:336 ] INFO     [2021-01-31 18:55:07,137] Start polling.
+   logging.py [ LINE:37  ] INFO     [2021-01-31 18:55:16,286] Received message [ID:33463] in chat [private:494609919]
+   logging.py [ LINE:34  ] INFO     [2021-01-31 18:55:16,546] Process update [ID:786452256]: [success] (in 260 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-31 18:55:21,128] Received message [ID:33466] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-01-31 18:55:21,257] Process update [ID:786452257]: [success] (in 129 ms)
+   logging.py [ LINE:37  ] INFO     [2021-01-31 19:00:49,027] Received message [ID:33468] in chat [private:280067493]
+   logging.py [ LINE:34  ] INFO     [2021-01-31 19:00:49,218] Process update [ID:786452258]: [success] (in 188 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-31 19:07:11,553] Received callback query [ID:1202880724096025120] from user [ID:280067493] for message [ID:33470] in chat [private:280067493] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-31 19:07:12,437] Unhandled callback query [ID:1202880724096025120] from user [ID:280067493] for message [ID:33470] in chat [private:280067493] originally posted by user [ID:1435159375]
+   logging.py [ LINE:34  ] INFO     [2021-01-31 19:07:12,438] Process update [ID:786452259]: [success] (in 885 ms)
+   logging.py [ LINE:100 ] INFO     [2021-01-31 19:10:44,484] Received callback query [ID:1202880726008143783] from user [ID:280067493] for message [ID:33473] in chat [private:280067493] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-31 19:10:44,976] Unhandled callback query [ID:1202880726008143783] from user [ID:280067493] for message [ID:33473] in chat [private:280067493] originally posted by user [ID:1435159375]
+   logging.py [ LINE:147 ] INFO     [2021-01-31 19:10:44,976] Process update [ID:786452260]: [failed] (in 492 ms)
+base_events.py [ LINE:1707] ERROR    [2021-01-31 19:10:44,977] Task exception was never retrieved
+future: <Task finished name='Task-77' coro=<Dispatcher._process_polling_updates() done, defined at /root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:380> exception=InstagramBasicDisplayException('Status code: 400')>
+Traceback (most recent call last):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 388, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 225, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 273, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "main.py", line 968, in process_callback_add
+    short_lived = instagram_basic_display.get_o_auth_token(token)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/instagram_basic_display/InstagramBasicDisplay.py", line 90, in get_o_auth_token
+    return self._make_o_auth_call(urljoin(self.API_URL, 'oauth/access_token'), api_data)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/instagram_basic_display/InstagramBasicDisplay.py", line 160, in _make_o_auth_call
+    raise InstagramBasicDisplayException('Status code: {}'.format(r.status_code))
+instagram_basic_display.InstagramBasicDisplayException.InstagramBasicDisplayException: Status code: 400: Type: None, Code: None, FBTraceID: None
+   logging.py [ LINE:100 ] INFO     [2021-01-31 19:12:27,151] Received callback query [ID:1202880724434492021] from user [ID:280067493] for message [ID:33473] in chat [private:280067493] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-31 19:12:27,481] Unhandled callback query [ID:1202880724434492021] from user [ID:280067493] for message [ID:33473] in chat [private:280067493] originally posted by user [ID:1435159375]
+   logging.py [ LINE:147 ] INFO     [2021-01-31 19:12:27,482] Process update [ID:786452261]: [failed] (in 331 ms)
+base_events.py [ LINE:1707] ERROR    [2021-01-31 19:12:27,482] Task exception was never retrieved
+future: <Task finished name='Task-86' coro=<Dispatcher._process_polling_updates() done, defined at /root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:380> exception=InstagramBasicDisplayException('Status code: 400')>
+Traceback (most recent call last):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 388, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 225, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 273, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "main.py", line 968, in process_callback_add
+    short_lived = instagram_basic_display.get_o_auth_token(token)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/instagram_basic_display/InstagramBasicDisplay.py", line 90, in get_o_auth_token
+    return self._make_o_auth_call(urljoin(self.API_URL, 'oauth/access_token'), api_data)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/instagram_basic_display/InstagramBasicDisplay.py", line 160, in _make_o_auth_call
+    raise InstagramBasicDisplayException('Status code: {}'.format(r.status_code))
+instagram_basic_display.InstagramBasicDisplayException.InstagramBasicDisplayException: Status code: 400: Type: None, Code: None, FBTraceID: None
+   logging.py [ LINE:100 ] INFO     [2021-01-31 19:12:34,224] Received callback query [ID:1202880723869262625] from user [ID:280067493] for message [ID:33473] in chat [private:280067493] originally posted by user [ID:1435159375]
+   logging.py [ LINE:118 ] INFO     [2021-01-31 19:12:34,559] Unhandled callback query [ID:1202880723869262625] from user [ID:280067493] for message [ID:33473] in chat [private:280067493] originally posted by user [ID:1435159375]
+   logging.py [ LINE:147 ] INFO     [2021-01-31 19:12:34,559] Process update [ID:786452262]: [failed] (in 335 ms)
+base_events.py [ LINE:1707] ERROR    [2021-01-31 19:12:34,560] Task exception was never retrieved
+future: <Task finished name='Task-90' coro=<Dispatcher._process_polling_updates() done, defined at /root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py:380> exception=InstagramBasicDisplayException('Status code: 400')>
+Traceback (most recent call last):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 388, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 225, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 273, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "main.py", line 968, in process_callback_add
+    short_lived = instagram_basic_display.get_o_auth_token(token)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/instagram_basic_display/InstagramBasicDisplay.py", line 90, in get_o_auth_token
+    return self._make_o_auth_call(urljoin(self.API_URL, 'oauth/access_token'), api_data)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/instagram_basic_display/InstagramBasicDisplay.py", line 160, in _make_o_auth_call
+    raise InstagramBasicDisplayException('Status code: {}'.format(r.status_code))
+instagram_basic_display.InstagramBasicDisplayException.InstagramBasicDisplayException: Status code: 400: Type: None, Code: None, FBTraceID: None
+dispatcher.py [ LINE:363 ] ERROR    [2021-01-31 19:15:01,690] Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 359, in start_polling
+    updates = await self.bot.get_updates(limit=limit, offset=offset, timeout=timeout)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/utils/exceptions.py", line 139, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+dispatcher.py [ LINE:363 ] ERROR    [2021-01-31 19:15:11,847] Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 359, in start_polling
+    updates = await self.bot.get_updates(limit=limit, offset=offset, timeout=timeout)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/utils/exceptions.py", line 139, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+dispatcher.py [ LINE:363 ] ERROR    [2021-01-31 19:15:21,972] Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 359, in start_polling
+    updates = await self.bot.get_updates(limit=limit, offset=offset, timeout=timeout)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/utils/exceptions.py", line 139, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+dispatcher.py [ LINE:363 ] ERROR    [2021-01-31 19:15:32,092] Cause exception while getting updates.
+Traceback (most recent call last):
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/dispatcher/dispatcher.py", line 359, in start_polling
+    updates = await self.bot.get_updates(limit=limit, offset=offset, timeout=timeout)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/bot.py", line 97, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/base.py", line 208, in request
+    return await api.make_request(self.session, self.server, self.__token, method, data, files,
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/bot/api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "/root/bot/flobot_UvU/10.01.21_V_from_serv/venv/lib/python3.8/site-packages/aiogram/utils/exceptions.py", line 139, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+                                                                                                executor.py [ LINE:351 ] INFO     [2021-02-01 19:07:44,797] Bot: All.Flowbot [@flo_test1221bot]
+  executor.py [ LINE:347 ] WARNING  [2021-02-01 19:07:44,895] Updates were skipped successfully.
+dispatcher.py [ LINE:336 ] INFO     [2021-02-01 19:07:44,896] Start polling.
+   logging.py [ LINE:37  ] INFO     [2021-02-01 19:07:44,990] Received message [ID:33789] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-02-01 19:07:45,103] Process update [ID:786452437]: [success] (in 115 ms)
+   logging.py [ LINE:37  ] INFO     [2021-02-01 19:07:51,889] Received message [ID:33791] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-02-01 19:07:51,977] Process update [ID:786452438]: [success] (in 88 ms)
+   logging.py [ LINE:37  ] INFO     [2021-02-01 19:09:03,320] Received message [ID:33793] in chat [private:392875761]
+   logging.py [ LINE:34  ] INFO     [2021-02-01 19:09:03,536] Process update [ID:786452439]: [success] (in 216 ms)

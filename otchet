@@ -1,0 +1,219 @@
+{'access_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwiZXhwIjoxNjIzMjgzMzUwLCJ1c2VyX25hbWUiOiJBbGxGbG93UnUxIiwianRpIjoiMzdkY2E5Y2UtZGU4Yy00NzM1LTkyN2UtYWY1YTk5NDEzMDZmIiwiY2xpZW50X2lkIjoicGFydG5lciIsInNjb3BlIjpbInBhcnRuZXIiXX0.f8qrG56snGniAoAXrkrsaqQfmO4fLdB8Iotr-mHKdcCLbBlLWSY6_aglM5e5th4TFbc3BoDyQOf_mgl5dNUpMTic3xhwJRbTNxNmUF7IU63mYxXDI24YZ2S5m547DsCFb1StnHpohQArKu1QoMGJGY4Cxv6MaitOEHQ0IrJNkVgwYyfLMIlv5-IbQbODrjYLYgutY-_XVpTXE-syThbb-vASI9z3zmoYzimmb_4-yjWj-xpRsTOLdaalDKRwiDk8jBhWcYmcDGoGMYeipbEe7d8N5FQONsL__NrRRFqhjDXR-80WHwxessKxHLNrM9S2uD7JdqvyNz0pdBZB9fG9YA', 'token_type': 'bearer', 'refresh_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwidXNlcl9uYW1lIjoiQWxsRmxvd1J1MSIsInNjb3BlIjpbInBhcnRuZXIiXSwiYXRpIjoiMzdkY2E5Y2UtZGU4Yy00NzM1LTkyN2UtYWY1YTk5NDEzMDZmIiwiZXhwIjoxNjI1ODMyMTUwLCJqdGkiOiJlNDI2YzU0ZC1kZWZiLTRkY2MtODE3NC02OGQwMDUxYzhhZmUiLCJjbGllbnRfaWQiOiJwYXJ0bmVyIn0.XEhSYPffOJCOE7Z9fFQ0eIRgvjhGZJHRvcTDQggS0be2V9wOFbBw1BfHs2tbJF3F58m3SHWSI8dK6Rs596rwekIQe7AtWTaVsXw0UbTmtXdUgqh3jvywZ1Tql9W1PS5cKkSBFP-cmctGAgV_BIwJMdgTeCo1NYPuMxa6NaHTGvV6KIKFxpbsTgOVH9yXwTHguAWCiv5YYpUEHyULuFyZWUZpoJSv5sYD1OPSX56d19e2NOX6lQImov5-JgySsvN-hT4s_PrB4E2EuOu67tciVBCUX7CZf4_ANPEGm7vwirikZsC-nA-v2HqoNrPrmWXinGuM00OAi_m4Qeu4qztW7A', 'expires_in': 43199, 'scope': 'partner', 'jti': '37dca9ce-de8c-4735-927e-af5a9941306f'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'I P ZALESSKY M', 'fullName': 'IP ZALESSKY', 'name': 'IP ZALESSKY', 'inn': '773773470500', 'kpp': '000000000000', 'okved': '74.81', 'ogrn': '313774634000761', 'addresses': [{'type': 'legal', 'zip': '117403', 'country': 'RUS', 'city': 'Москва', 'street': 'Харьковская улица, дом 1к2 кВ 272', 'description': ''}, {'type': 'post', 'zip': '117403', 'country': 'RUS', 'city': 'Москва', 'street': 'Харьковская улица, дом 1к2 кВ 272'}], 'email': '2222010@mail.ru', 'founders': {'individuals': [{'address': 'Москва,Харьковская улица, дом 1к2 кВ 272', 'citizenship': 'Россия', 'firstName': 'Михаил', 'lastName': 'Залесский'}]}, 'ceo': {'phone': '8-977-329-56-06', 'firstName': 'Михаил', 'lastName': 'Залесский', 'middleName': 'Сергеевич', 'birthDate': '1991-04-30'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': '40817810238047774228', 'bankName': 'ПАО СБЕРБАНК', 'bik': '044525225', 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'message': 'Ошибка регистрации точки 515408[I P ZALESSKY M]\nуказаны неверные банковские реквизиты. БИК : 044525225; р/с : 40817810238047774228'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Ошибка регистрации точки 515408[I P ZALESSKY M]
+указаны неверные банковские реквизиты. БИК : 044525225; р/с : 40817810238047774228
+16
+smth
+{'access_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwiZXhwIjoxNjIzMjgzMzUwLCJ1c2VyX25hbWUiOiJBbGxGbG93UnUxIiwianRpIjoiZWNmYmNjOTEtYmU4ZS00NWQ5LTg3ZDMtOWZjMjkxMzVmNzI3IiwiY2xpZW50X2lkIjoicGFydG5lciIsInNjb3BlIjpbInBhcnRuZXIiXX0.K9Jjg6FWDodwbUNRopp23FSoEPDQQHLPeFJ6fzV0QN4_LaEk-wfFvE_oHR4C0d7dznPJs8E-25ro_IDk4S_6PNt0JDVOgdX2dguIPiJAfxcESzb0UFIARl2rIH3If-oyVbcg8whFq52uTel19aULWxOICsvHcnPRu3JG9mijhLFWXEp0FFHgRvUWK1fFlvBjjc_VtYcT9XCeFwLFN_io6UgWI0pGUVqBHxxa-wsThMIKoK9GNyqK0ZaSHKeJ7x1_MjIkS3M8rD87-D8KorOSdz5v2bElbFjsG1gvTRVqyfknIQy-zNnyM2QQvnuCUWfgYFcagSFo4NgP9bewRAj52A', 'token_type': 'bearer', 'refresh_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwidXNlcl9uYW1lIjoiQWxsRmxvd1J1MSIsInNjb3BlIjpbInBhcnRuZXIiXSwiYXRpIjoiZWNmYmNjOTEtYmU4ZS00NWQ5LTg3ZDMtOWZjMjkxMzVmNzI3IiwiZXhwIjoxNjI1ODMyMTUwLCJqdGkiOiIyZDU5YzFiMC00Y2U3LTRiODAtOTk5ZC02ZWM1OWMzYzhiNWYiLCJjbGllbnRfaWQiOiJwYXJ0bmVyIn0.H5WEEuncRew-zLn_Hg-aF3wmKXrO8pIRbAPBs98S1oKh_QtOgMNO1yh-TB1hlxtqdw2cbynraSPSWxFs0qxMr1YA-LJkfOQ4s_mWbjsAQszmm9qMB04LdSkqWep3fwdEl9qaFg2zVys6RMerTsvnXU4l5fC4uxN16aIm0lMA8zleiQlMLnHGmlK1_OMCEVjNYY9nsX4EnemzpNmdn6T_HAUYAhPp7EWLcMTFWKvXmY3MBuzP5WNF0mqm54vJOSa333PYE753f0cuY-zKKggqpvzrlWafOhzCzxag5-SkBSVR8RtLdupAIWecPmgbgYqiIcmj7Hiqi0rc1lQSurRfPQ', 'expires_in': 43199, 'scope': 'partner', 'jti': 'ecfbcc91-be8e-45d9-87d3-9fc29135f727'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'KOVALEVA VIKTO', 'fullName': 'КОВАЛЕВА ВИКТОРИЯ ВАДИМОВНА', 'name': 'КОВАЛЕВА В.В', 'inn': '505014015419', 'kpp': '000000000000', 'okved': 'Нет', 'ogrn': 'Нет', 'addresses': [{'type': 'legal', 'zip': '101100', 'country': 'RUS', 'city': 'Москва', 'street': 'Мясницкая ул., д.40а, квартира 4', 'description': ''}, {'type': 'post', 'zip': '101100', 'country': 'RUS', 'city': 'Москва', 'street': 'Мясницкая ул., д.40а, квартира 4'}], 'email': 'Info@cvet-tochka.ru', 'founders': {'individuals': [{'address': 'Нет', 'citizenship': 'Россия', 'firstName': 'Нет', 'lastName': 'Ковалева'}]}, 'ceo': {'phone': '8-926-401-6079', 'firstName': '8-926-401-6079', 'lastName': 'Ковалева', 'middleName': 'Вадимовна', 'birthDate': 'Нет'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': '1986-05-10', 'bankName': 'АО «Альфа-Банк», г. Москва', 'bik': '044525593', 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'message': 'JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Нет": not a valid Long value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Long` from String "Нет": not a valid Long value\n at [Source: (PushbackInputStream); line: 1, column: 368] (through reference chain: ru.tinkoff.acq.smregister.Merchant["ogrn"])'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Нет": not a valid Long value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Long` from String "Нет": not a valid Long value
+ at [Source: (PushbackInputStream); line: 1, column: 368] (through reference chain: ru.tinkoff.acq.smregister.Merchant["ogrn"])
+18
+smth
+{'access_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwiZXhwIjoxNjIzMjgzMzUwLCJ1c2VyX25hbWUiOiJBbGxGbG93UnUxIiwianRpIjoiMmZhZDU5NGUtNjYxMC00NWFmLWFjZDItODY2M2QzNWFhNzExIiwiY2xpZW50X2lkIjoicGFydG5lciIsInNjb3BlIjpbInBhcnRuZXIiXX0.OeIgelgYCwlg8NDVErFB7N32_miiwzb-jHEQ463cughKKqX1iD9nSyHskng2vF7SuPWDx0Itc8G38wT-tmJsiQQ8i4tcvzVU8wd-rrgZpMOZ0IGEr4EftiLcJ8w-Otd3vVeA5n61NAD2LclPHfLFF11RDNbGf8oWJknpto9Bb_wrryAA159zpU70I10xOqbU0mTwIDhyOzf2t_LaxryA2fLO5-hY7P7i3DFb6sHdLU_kcndNpG_eHEiywZwOFpq3yusfND6SUhsdjXNJUXw4DbKDfbyXFZdAkDbwzY9iT2-udQVEkqfix142vViv3jUV3Uk6ojaHsba44iroqpbq_Q', 'token_type': 'bearer', 'refresh_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwidXNlcl9uYW1lIjoiQWxsRmxvd1J1MSIsInNjb3BlIjpbInBhcnRuZXIiXSwiYXRpIjoiMmZhZDU5NGUtNjYxMC00NWFmLWFjZDItODY2M2QzNWFhNzExIiwiZXhwIjoxNjI1ODMyMTUwLCJqdGkiOiI2MjMzZjI4NS0zOWI3LTQ1OTgtYmRlOC03NDA3ZjgzZWUxOTAiLCJjbGllbnRfaWQiOiJwYXJ0bmVyIn0.ahY_dluztOgBkxuPVhP9fICeIIoguH-6ZSWbHESRA5bYw11pknNibilllIWCdYE6oeyeio_k4jMv_UYWF0JsH6cV5zguGB24p9odroLY4Fw9-dCXPGvNKiVlvF4T8TOiS_67Yidki5OvCLKjW38GblRjENY34HVxzLXBtt7IOpm_Hp7_0XKj9HP-88HYwcvVWJ8RAjV51Bkc03BuU3hW__9ItnBTNMaL5jmt-KZwxQZHMNeDp3udr8d6D3z3U6h6VRzhcRmTK3iKImQx-O2ZQ8QFJqd6sKslCLxTlVOC3hyF9RevCaEIUYGWH4DR2zRKpeeIAYfQUrF76hAYFOBYGg', 'expires_in': 43199, 'scope': 'partner', 'jti': '2fad594e-6610-45af-acd2-8663d35aa711'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'IP BELANOVICH', 'fullName': 'Индивидуальный предприниматель Беланович Оксана Алексеевна', 'name': 'ИП БЕЛАНОВИЧ О. А.', 'inn': '771610405941', 'kpp': '000000000000', 'okved': '63.11.1', 'ogrn': '306770000212749', 'addresses': [{'type': 'legal', 'zip': '129281', 'country': 'RUS', 'city': 'Москва', 'street': 'Улица Изумрудная, дом 13, корпус 2, квартира 458', 'description': ''}, {'type': 'post', 'zip': '129281', 'country': 'RUS', 'city': 'Москва', 'street': 'Улица Изумрудная, дом 13, корпус 2, квартира 458'}], 'email': 'oksinya13@mail.ru', 'founders': {'individuals': [{'address': 'Г. Москва, улица Изумрудная, дом 13, корпус 2, квартира 458', 'citizenship': 'Россия', 'firstName': 'Оксана', 'lastName': 'Беланович'}]}, 'ceo': {'phone': '8-916-127-63-31', 'firstName': 'Оксана', 'lastName': 'Беланович', 'middleName': 'Алексеевна', 'birthDate': '1977-01-20'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': '40817810838121637063', 'bankName': 'ПАО СБЕРБАНК', 'bik': '044525225', 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'message': 'Ошибка регистрации точки 515409[IP BELANOVICH]\nуказаны неверные банковские реквизиты. БИК : 044525225; р/с : 40817810838121637063'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Ошибка регистрации точки 515409[IP BELANOVICH]
+указаны неверные банковские реквизиты. БИК : 044525225; р/с : 40817810838121637063
+20
+smth
+{'access_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwiZXhwIjoxNjIzMjgzMzUxLCJ1c2VyX25hbWUiOiJBbGxGbG93UnUxIiwianRpIjoiYjQ0ZmE3ZTEtYjExNS00M2YyLWE4ZWQtNDUyZWFlMzQ1OGViIiwiY2xpZW50X2lkIjoicGFydG5lciIsInNjb3BlIjpbInBhcnRuZXIiXX0.FvvI0hyMg6VxDOSomWbKffKeHuxj7rcWnfekuFboItOSzkNA2wxYi4EXf3TYR7s1OC0Ys60l0NRwCH5mIL3SF5rHYiPD3iLo313JkqoQN2-SiHcjpM_vEfhYvYwi1GbAGogWP5674CYW5BVcZDjKFaX9gp4fqCet8ri_Z-J1XuR0eCiYs12NUjr4hqpPuyUIAM0JTMRWAZbMpmV1voFCM-Majpv35BSzR9cVv5IDyrDIMeUwKkZ5gz0EIAEDF1YA90DDDPpJt9I0gA_KbAnBx7LSZJmKsajrLxYNVou40_1VlnX7hgcZdMWljSXdS-vHZhobqQHODX3wWY7r-zt1ig', 'token_type': 'bearer', 'refresh_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwidXNlcl9uYW1lIjoiQWxsRmxvd1J1MSIsInNjb3BlIjpbInBhcnRuZXIiXSwiYXRpIjoiYjQ0ZmE3ZTEtYjExNS00M2YyLWE4ZWQtNDUyZWFlMzQ1OGViIiwiZXhwIjoxNjI1ODMyMTUxLCJqdGkiOiJjYTgxOTUwNi1mM2JjLTQ2MzgtYjBhOC1iNGUzODY4YWViZGYiLCJjbGllbnRfaWQiOiJwYXJ0bmVyIn0.Ta7tJ7CBw8oMv6VIzzTncKgBWagyr1rPNb9OhC-jF2zc24LFlW0svPxZG0rqCSbMuUbo0GuExWtI4x-wwifz7epETzUKoa81vhixcX3_iiyKZpRpFCSehPy7BGjyzN8WmWjhhJeMTwxBvRIc6fdZHvvEJYrAjumgTDoSDqkBzCSTLJv6tlzng3Isl2rulZQviceMjQwUh43DJ-nYZs9dHEixriMrFd7YuWrb1sGMEuHnmvsUdEcLqbTYMYSNdtCPWWf2i_UrFwDIBPGdB22iCJt7RFwReLjvpR1VcotkXnYLiFALwS3aBqLH32bTCkGAwj13dFZ5CFu74-qPXbYWIw', 'expires_in': 43199, 'scope': 'partner', 'jti': 'b44fa7e1-b115-43f2-a8ed-452eae3458eb'}
+23
+smth
+{'access_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwiZXhwIjoxNjIzMjgzMzUxLCJ1c2VyX25hbWUiOiJBbGxGbG93UnUxIiwianRpIjoiNTZiMzgzNzctNmU4ZS00OWRkLTgwZGUtMGViZGZlYTgyNWQxIiwiY2xpZW50X2lkIjoicGFydG5lciIsInNjb3BlIjpbInBhcnRuZXIiXX0.ZL65euUJCiCjYueFDv1-m46glB-lXywVMdGWyKmE_6LAHQc8USEuk45bVxJagzOopAw7X6OkwGRkz4KWgkFdfaL_YhTwND9h60agFBL6uye7WDYn3Y0GlwDUGFrMmQ93tTC4ezmEuISPi_0Zy2IwaeFE2GKvJFtxN_dej-QWCRoDzl67IZhr0uyC5AgaCkyqB9oa3Pu_vQ-IVm_r_uxorlNKe673lG_JLJG0tU_LrgkkDz9Lft6h1MWEILBXMfYL81Ne2eaALkYlxLtvcVo0cLOJh0dcCCYKOcbg6UjV5_mbfmmRwMC4JQUhqz_XVRsjyAIHzwx9-6C-EHv5uQGhTw', 'token_type': 'bearer', 'refresh_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwidXNlcl9uYW1lIjoiQWxsRmxvd1J1MSIsInNjb3BlIjpbInBhcnRuZXIiXSwiYXRpIjoiNTZiMzgzNzctNmU4ZS00OWRkLTgwZGUtMGViZGZlYTgyNWQxIiwiZXhwIjoxNjI1ODMyMTUxLCJqdGkiOiI4ZTcwM2NmYS1iYWI5LTQyYzEtOTEyMS00MDgxOWMxNmU0ZWUiLCJjbGllbnRfaWQiOiJwYXJ0bmVyIn0.CksNPmFsjUwT2SeQlIOBuQheuxsk-U2us8daN7XL6-znYcT3S8b0ldJLlruk7CPJzJHPHJl9IOH0vJFcUyuSlPGLCRvJMdD7MvxKyq96EVDVm-sl6X9edU9H1hO8x7T4KPDbv7I5iPuSU0Hh4PC5_qqDHRHn9goNxBnCSKKGIRT7gzXrOQTs8-iL3fIAPHrhYk28dN5s-nq4ZQXUGxx9wFzbPy6j9NpjJ9GLa-fQE__QA-Js9-KDhK47yfAJfIHMA535EhNSX8ROZ4B9u1MAoqqT8yzF3GsRWwGRyUH9AnR8FiJiOCc-qH8JaIhQDLmLqmOLvJIsMVpAE2c8lOCNzw', 'expires_in': 43199, 'scope': 'partner', 'jti': '56b38377-6e8e-49dd-80de-0ebdfea825d1'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': '★ ⬆️ В начало ', 'fullName': None, 'name': None, 'inn': None, 'kpp': '000000000000', 'okved': None, 'ogrn': None, 'addresses': [{'type': 'legal', 'zip': None, 'country': 'RUS', 'city': None, 'street': None, 'description': ''}, {'type': 'post', 'zip': None, 'country': 'RUS', 'city': None, 'street': None}], 'email': None, 'founders': {'individuals': [{'address': None, 'citizenship': 'Россия', 'firstName': None, 'lastName': None}]}, 'ceo': {'phone': None, 'firstName': None, 'lastName': None, 'middleName': None, 'birthDate': None}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': None, 'bankName': None, 'bik': None, 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'errors': [{'field': 'name', 'defaultMessage': 'must not be empty', 'rejectedValue': None, 'code': 'NotEmpty'}, {'field': 'fullName', 'defaultMessage': 'must not be empty', 'rejectedValue': None, 'code': 'NotEmpty'}, {'field': 'bankAccount.bankName', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'inn', 'defaultMessage': 'must not be empty', 'rejectedValue': None, 'code': 'NotEmpty'}, {'field': 'bankAccount.account', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'email', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'billingDescriptor', 'defaultMessage': 'must match "[A-z0-9.\\-_ ]+"', 'rejectedValue': '★ ⬆️ В начало ', 'code': 'Pattern'}, {'field': 'bankAccount.bik', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}]}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+data without message
+введен неверно: name
+27
+smth
+{'access_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwiZXhwIjoxNjIzMjgzMzUxLCJ1c2VyX25hbWUiOiJBbGxGbG93UnUxIiwianRpIjoiMjdlZTZhZmEtMDg3Mi00MmUwLThkNDgtZjk3MTE4ZTZiY2Y0IiwiY2xpZW50X2lkIjoicGFydG5lciIsInNjb3BlIjpbInBhcnRuZXIiXX0.e658W87u8pIx83CEfzbKRk48tyh1Gy5aFhCEpkdKRVH4vlm1B7XWpTGc6Tg-UT0s_cWesY4GUtZYv78eUtSgDDPTyutGOnkajtOU0-6Mwdp_xjBMiWZOKvD3gXHbC7Fr0H0Y7DSN5XsL8xwcZc1sl3w5rrJ4CwULfOKgy7_bDj7QAypze-_RLVqKueVmy4cK7ouVY_b_WSbZun8aanHxHmx2uapKHx_MU0GnO6FF9Nekw8Z3j0nxTKuF5ea5lKiLdH9b8vBuxD0ddl8x-Cjmx0rR3-h9pot3-bWzfE3iH7fnWjTxPAR37-gv2U1O1YAo_nn8HrmJJzkSIceFHdJ4UA', 'token_type': 'bearer', 'refresh_token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InBrZXkifQ.eyJhdWQiOlsicGRmc2VuZGVyIiwicGF5b2ZmIiwicmVnaXN0ZXIiXSwidXNlcl9uYW1lIjoiQWxsRmxvd1J1MSIsInNjb3BlIjpbInBhcnRuZXIiXSwiYXRpIjoiMjdlZTZhZmEtMDg3Mi00MmUwLThkNDgtZjk3MTE4ZTZiY2Y0IiwiZXhwIjoxNjI1ODMyMTUxLCJqdGkiOiI2ZjRiMzE4NC02NWUwLTRiOTMtOGZiZS1hZTg3MDE1YjIyMmMiLCJjbGllbnRfaWQiOiJwYXJ0bmVyIn0.gkyQudKobmhPsZmgUT5c1NopRpUtIgmyCMKkCqfq6YGoOauLAPujRXR00wwErmqRQOxe9DobfGQ8SnQEDoZPvdTJ9D2zq8iDJZuKjuFBTH-DTHVMFIiqv1Lb0q7s_4a3pqtBPirNvEZFKQx9Fx3R7Dic1Mdz_Hr6BowhP1OC0rZ-ktWQmZFDY_fT3YgX8ab64-WcZAwyI_fwwEaLIpdEJtx7Yvn4V574oUhTSeTdF_hKTs3hdpOMtR7QVrKjPdZKOp9AoQCLiFP-a01WgZ5q1YsJkSui-55qvdEdRXQrFFmQ__laKZdIok8O0Pz2-RUF1c0wxjiAcoCE6HwSNKg5kg', 'expires_in': 43199, 'scope': 'partner', 'jti': '27ee6afa-0872-42e0-8d48-f97118e6bcf4'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'SELFIE', 'fullName': 'Самозанятый', 'name': 'Самозанятый', 'inn': '860223669564', 'kpp': '000000000000', 'okved': 'Нет', 'ogrn': 'Нет', 'addresses': [{'type': 'legal', 'zip': 'Нет', 'country': 'RUS', 'city': 'Нет', 'street': 'Нет', 'description': ''}, {'type': 'post', 'zip': 'Нет', 'country': 'RUS', 'city': 'Нет', 'street': 'Нет'}], 'email': 'Нет', 'founders': {'individuals': [{'address': 'Нет', 'citizenship': 'Россия', 'firstName': 'Нет', 'lastName': None}]}, 'ceo': {'phone': 'Нет', 'firstName': None, 'lastName': None, 'middleName': None, 'birthDate': 'Нет'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': None, 'bankName': None, 'bik': None, 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'message': 'JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Нет": not a valid Long value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Long` from String "Нет": not a valid Long value\n at [Source: (PushbackInputStream); line: 1, column: 278] (through reference chain: ru.tinkoff.acq.smregister.Merchant["ogrn"])'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+JSON parse error: Cannot deserialize value of type `java.lang.Long` from String "Нет": not a valid Long value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Long` from String "Нет": not a valid Long value
+ at [Source: (PushbackInputStream); line: 1, column: 278] (through reference chain: ru.tinkoff.acq.smregister.Merchant["ogrn"])
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'Msk.flow', 'fullName': 'Индивидуальный предприниматель Акжол уулу Азамат', 'name': 'ИП Акжол уулу А.', 'inn': '775133928802', 'kpp': '000000000000', 'okved': '★ ⬆️ В начало ⬆️ ★', 'ogrn': None, 'addresses': [{'type': 'legal', 'zip': None, 'country': 'RUS', 'city': None, 'street': None, 'description': ''}, {'type': 'post', 'zip': None, 'country': 'RUS', 'city': None, 'street': None}], 'email': None, 'founders': {'individuals': [{'address': None, 'citizenship': 'Россия', 'firstName': None, 'lastName': None}]}, 'ceo': {'phone': None, 'firstName': None, 'lastName': None, 'middleName': None, 'birthDate': None}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': None, 'bankName': None, 'bik': None, 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'errors': [{'field': 'bankAccount.account', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'bankAccount.bik', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'bankAccount.bankName', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'email', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}]}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+data without message
+введен неверно: bankAccount.account
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'OOO UK-REMART', 'fullName': 'ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ «УК-Ремарт»', 'name': 'ООО «УК-Ремарт»', 'inn': '9731037891', 'kpp': '000000000000', 'okved': '46.22', 'ogrn': '1197746272404', 'addresses': [{'type': 'legal', 'zip': '121614', 'country': 'RUS', 'city': 'Москва', 'street': '121614, ГОРОД МОСКВА, УЛИЦА КРЫЛАТСКИЕ ХОЛМЫ, ДОМ 32, КОРПУС 2, Э 1 П V К 9 ОФ 39А', 'description': ''}, {'type': 'post', 'zip': '121614', 'country': 'RUS', 'city': 'Москва', 'street': '121614, ГОРОД МОСКВА, УЛИЦА КРЫЛАТСКИЕ ХОЛМЫ, ДОМ 32, КОРПУС 2, Э 1 П V К 9 ОФ 39А'}], 'email': 'zakaz.rouzbery@gmail.com', 'founders': {'individuals': [{'address': 'ГОРОД МОСКВА, УЛИЦА КРЫЛАТСКИЕ ХОЛМЫ, ДОМ 32, КОРПУС 2, Э 1 П V К 9 ОФ 39А', 'citizenship': 'Россия', 'firstName': 'Даниил', 'lastName': 'Волков'}]}, 'ceo': {'phone': '89990031717', 'firstName': 'Даниил', 'lastName': 'Волков', 'middleName': 'Сергеевич', 'birthDate': '1995-03-14'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': '40702810438000261272', 'bankName': 'ПАО «Сбербанк»', 'bik': '044525225', 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'code': '515410', 'shopCode': 515410, 'terminals': []}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+data without message
+data without errors
+None
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': '/start', 'fullName': 'buket_schastya_spb', 'name': '/start', 'inn': '/start', 'kpp': '000000000000', 'okved': '47.21; 47.21.2; 47.21.1', 'ogrn': '319645100099672', 'addresses': [{'type': 'legal', 'zip': '410022', 'country': 'RUS', 'city': 'Саратов', 'street': 'Пономарева ул,24', 'description': ''}, {'type': 'post', 'zip': '410022', 'country': 'RUS', 'city': 'Саратов', 'street': 'Пономарева ул,24'}], 'email': 'buket.schastya.spb@mail.ru', 'founders': {'individuals': [{'address': 'Саратовская обо., г. Саратов, им. Хомяковой В.Д. ул.19, квартира 2', 'citizenship': 'Россия', 'firstName': 'Евгений', 'lastName': 'Калиниченко'}]}, 'ceo': {'phone': '8-965-797-21-05', 'firstName': 'Евгений', 'lastName': 'Калиниченко', 'middleName': 'Васильевич', 'birthDate': '1991-05-17'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': '40802810900001322327', 'bankName': 'АР «Тинькофф Банк»', 'bik': 'АО «Тинькофф Банк»', 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'errors': [{'field': 'billingDescriptor', 'defaultMessage': 'must match "[A-z0-9.\\-_ ]+"', 'rejectedValue': '/start', 'code': 'Pattern'}, {'field': 'inn', 'defaultMessage': 'must match "([0-9])*"', 'rejectedValue': '/start', 'code': 'Pattern'}, {'field': 'bankAccount.bik', 'defaultMessage': 'must match "[0-9]{9}"', 'rejectedValue': 'АО «Тинькофф Банк»', 'code': 'Pattern'}]}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+data without message
+введен неверно: billingDescriptor
+60
+smth
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'IP IGNATOV ILY', 'fullName': 'IP IGNATOV ILYA SERGEEVICH', 'name': 'IP IGNATOV I S', 'inn': '623204928680', 'kpp': '000000000000', 'okved': '47.76.1', 'ogrn': '320623400039086', 'addresses': [{'type': 'legal', 'zip': '390031', 'country': 'RUS', 'city': 'Рязань', 'street': 'Славянский проспект, 6', 'description': ''}, {'type': 'post', 'zip': '390031', 'country': 'RUS', 'city': 'Рязань', 'street': 'Славянский проспект, 6'}], 'email': 'ilyalizacvetok@yandex.ru', 'founders': {'individuals': [{'address': 'Рязанская область город Сасово улица строителей дом 60 кВ 2', 'citizenship': 'Россия', 'firstName': 'Илья', 'lastName': 'Игнатов'}]}, 'ceo': {'phone': '89106277070', 'firstName': 'Илья', 'lastName': 'Игнатов', 'middleName': 'Сергеевич', 'birthDate': '1995-03-06'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': '40802810153000015968', 'bankName': 'ПАО Сбербанк', 'bik': '046126614', 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'message': 'Ошибка регистрации точки null[IP IGNATOV ILY]\nАдрес не найден в РФ'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Ошибка регистрации точки null[IP IGNATOV ILY]
+Адрес не найден в РФ
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': '★ ⬆️ В начало ', 'fullName': 'ИП САВИН КОНСТАНТИН АНТОНОВИЧ', 'name': 'ИП САВИН КОНСТАНТИН АНТОНОВИЧ', 'inn': '772797148586', 'kpp': '000000000000', 'okved': '47.76.1', 'ogrn': '320774600466754', 'addresses': [{'type': 'legal', 'zip': '117593', 'country': 'RUS', 'city': 'Москва', 'street': 'Севастопольский проспект, д. 75 к. 1, кв. 15', 'description': ''}, {'type': 'post', 'zip': '117593', 'country': 'RUS', 'city': 'Москва', 'street': 'Севастопольский проспект, д. 75 к. 1, кв. 15'}], 'email': 'Koalflowers@yandex.ru', 'founders': {'individuals': [{'address': 'Москва, Севастопольский проспект, д. 75 к. 1, кв. 15', 'citizenship': 'Россия', 'firstName': 'Константин', 'lastName': 'Савин'}]}, 'ceo': {'phone': '8-965-171-72-54', 'firstName': 'Константин', 'lastName': 'Савин', 'middleName': 'Антонович', 'birthDate': '1993-07-20'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': '40802810800001697314', 'bankName': 'АО "ТИНЬКОФФ БАНК"', 'bik': '044525974', 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'errors': [{'field': 'billingDescriptor', 'defaultMessage': 'must match "[A-z0-9.\\-_ ]+"', 'rejectedValue': '★ ⬆️ В начало ', 'code': 'Pattern'}]}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+data without message
+введен неверно: billingDescriptor
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'Zeffironni', 'fullName': 'ИП Попов Кирилл Владимирович', 'name': 'ИП Попов Кирилл Владимирович', 'inn': '366606159639', 'kpp': '000000000000', 'okved': '82.92', 'ogrn': '320366800068250', 'addresses': [{'type': 'legal', 'zip': '394036', 'country': 'RUS', 'city': 'Воронеж', 'street': 'Пятницкого 61', 'description': ''}, {'type': 'post', 'zip': '394036', 'country': 'RUS', 'city': 'Воронеж', 'street': 'Пятницкого 61'}], 'email': 'go.into@yandex.ru', 'founders': {'individuals': [{'address': '/start', 'citizenship': 'Россия', 'firstName': '/start', 'lastName': '/start'}]}, 'ceo': {'phone': '/start', 'firstName': '/start', 'lastName': '/start', 'middleName': '/start', 'birthDate': '/start'}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': '/start', 'bankName': '/start', 'bik': '/start', 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'message': 'JSON parse error: Cannot deserialize value of type `java.time.LocalDate` from String "/start": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text \'/start\' could not be parsed at index 0; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.time.LocalDate` from String "/start": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text \'/start\' could not be parsed at index 0\n at [Source: (PushbackInputStream); line: 1, column: 1158] (through reference chain: ru.tinkoff.acq.smregister.Merchant["ceo"]->ru.tinkoff.acq.smregister.Ceo["birthDate"])'}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+JSON parse error: Cannot deserialize value of type `java.time.LocalDate` from String "/start": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text '/start' could not be parsed at index 0; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.time.LocalDate` from String "/start": Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text '/start' could not be parsed at index 0
+ at [Source: (PushbackInputStream); line: 1, column: 1158] (through reference chain: ru.tinkoff.acq.smregister.Merchant["ceo"]->ru.tinkoff.acq.smregister.Ceo["birthDate"])
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'billingDescriptor': 'IP ADILOVA ZH ', 'fullName': 'ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ АДИЛОВА ЖАННА ВЯЧЕСЛАВОВНА', 'name': 'ИП Адилова Ж В', 'inn': None, 'kpp': '000000000000', 'okved': None, 'ogrn': None, 'addresses': [{'type': 'legal', 'zip': None, 'country': 'RUS', 'city': None, 'street': None, 'description': ''}, {'type': 'post', 'zip': None, 'country': 'RUS', 'city': None, 'street': None}], 'email': None, 'founders': {'individuals': [{'address': None, 'citizenship': 'Россия', 'firstName': None, 'lastName': None}]}, 'ceo': {'phone': None, 'firstName': None, 'lastName': None, 'middleName': None, 'birthDate': None}, 'siteUrl': 'http://T.me/flo_test1221bot', 'bankAccount': {'account': None, 'bankName': None, 'bik': None, 'details': 'оплата услуг предпринимателя', 'tax': 10}}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{'errors': [{'field': 'inn', 'defaultMessage': 'must not be empty', 'rejectedValue': None, 'code': 'NotEmpty'}, {'field': 'bankAccount.bankName', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'email', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'bankAccount.bik', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}, {'field': 'bankAccount.account', 'defaultMessage': 'must not be null', 'rejectedValue': None, 'code': 'NotNull'}]}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+data without message
+введен неверно: inn
+
+
+
+
+'rosanas_flowers_moscow'
+'flowers_koketka'
+'rozaria_roz'
+'mary.cherry.bunch'
+'fiori_di_milano'
+'podari_nastroyenie'
+'msk.flow'
+'studio_gortenziya'
+'rouzbery'
+'buket_schastya_spb'
+'cvetok_rzn'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++----+--------------------------------------+-------+---------------------+-----------+
+| id | provider_payment_charge_id           | cost  | create_at           | status    |
++----+--------------------------------------+-------+---------------------+-----------+
+| 88 | 729085870                            |    45 | 2021-09-14 08:41:04 | CONFIRMED |
+| 90 | 730688805                            |    40 | 2021-09-15 06:00:23 | CONFIRMED |
+| 91 | 731128930                            |    10 | 2021-09-15 09:24:48 | CONFIRMED |
+| 92 | 731145281                            |    10 | 2021-09-15 09:31:13 | CONFIRMED |
+| 93 | 734064733                            |  2100 | 2021-09-16 16:18:04 | CONFIRMED |
+
+
+
+
+
+

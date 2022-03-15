@@ -1,0 +1,5 @@
+aiogram==2.19
+dadata==21.10.1
+instagram_basic_display==1.0.5
+mysql_connector_repackaged==0.3.1
+requests==2.22.0

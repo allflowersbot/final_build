@@ -1,0 +1,19 @@
+
+
+select managers.*, shops.shop_name,shops.shop_id, shops.manager_chat_id from shops left join managers on shops.shop_id = managers.shop_id;
+shop_id = 14; это блумикс, всё с ним ассоциированое надо удалить
+
+select flobot.shop_addr.*, flobot.shops.shop_name from flobot.shop_addr left join flobot.shops on flobot.shops.shop_id = flobot.shop_addr.shop_id where flobot.shops.is_open = 'yes';
+
+select shop_name, shops.shop_id, tink_shop_code, registration_info.* from shops left join registration_info on registration_info.shop_id = shops.shop_id  where tink_shop_code is NULL and phone is not NULL;
+
+select * from products where cost is null;
+
+alter table orders add column ordering varchar(16);
+alter table orders add column add_flowers varchar(16);
+alter table orders add column confirmed varchar(16);
+select rg.fullName, rg.name, rg.inn, rg.okved, rg.ogrn, shops.shop_name, shops.tink_shop_code from shops left join registration_info as rg on shops.shop_id = rg.shop_id where rg.ogrn is not null and shops.tink_shop_code is not NULL\G
+
+select sh.shop_id, sh.shop_name, sh.tink_shop_code, rg.* from shops as sh left join registration_info as rg on sh.shop_id = rg.shop_id where tink_shop_code is Null and rg.id is not null\G
+
+select id, file_id, caption, categories, cost, shop_id from products where shop_id = 1 order by cost asc LIMIT 4;

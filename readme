@@ -1,0 +1,390 @@
+Use this token to access the HTTP API:
+1435159375:AAHgbJ3NhRjfT9Pbvf_6AeN7ol57s8BeJGc
+
+
+
+Done! Congratulations on your new bot. You will find it at t.me/flo_test1221bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+1435159375:AAHgbJ3NhRjfT9Pbvf_6AeN7ol57s8BeJGc
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+
+
+facebook dev pass = rFEB6Pwh
+
+id test_app in instagram 2522407768052022
+jet_brains rJm2mPw9TB34kSa
+почта проекта
+
+почта # allflowersbot@yandex.ru
+        qwdf#$ffgFG
+        dadata
+allflowersbot@yandex.ru
+Qwed12Ddv12
+secret answer : лада
+
+github acount:
+
+allflowersbot@yandex.ru
+sds2DFEF235nh
+domen
+
+allflowersbot@yandex.ru
+jeVePvrr28wcfEw
+
+
+code AQDjgHxuxKFV5H2HQu6kUnVJ2U-zlQjN3WT_yNqWDZoj0YcmR8gEfH2b3J5SeYHmrAiY30b5ANUIGXQJL5OeEXRt96p83IRHoOACvGBU94nA5g9mEx8AsoD928ocAseAZlKvFOIesrh_y0i3cAn34HIKuAKog62iQjP4wSXAsWIvVJTWrY85ZUPStY7wRn6qG-EVziGhMRZElF3cgBPpPGasAQ_M8ue5u7wn-dvm2uH0ug
+
+
+
+{"access_token": "IGQVJYYklnOVliQnNBZAmpKQmZAPOGxZAcTVhMEVkQTVlZAU1fdGFaNGxNTlZAvbF9IanFZAOERfbTJjT21LaFRmQ09taF9ic0JBSGRnYjljWG5YbTAySlBjbFM5Y2l6azN1eDlMeTJybnBiT3VMSkptUnBGY0FMc2Y2ZAWdvVHEw", "user_id": 17841415249129454}%  
+
+                  IGQVJYRXhFZAkNDcWJheXdSWlVGX1VBR1RCZAmZAMVnlwWEFtNkoxdDFjbGJFVEhfVVFjc1NhenJrbmpDMUZAfeW01a3dTMDNFRTZAqRGwxdERjNW9SNEdZARTAxNGRmekNONmhVTzEwcXBR
+
+https://allflowersbot.github.io/allflowers.github.io/auth?code=AQB4RNwik45Cgu6C_XjvwxUKCA-HtG2WnRkbOAv2B504x0p71v0ppn4iqQcOi9Ky0T3ZjnnJu-HsFSObnIp3LpoQBlSlf37y4IuHanzWOdsILAo7EhplH1BmdrYH0V5Gl5pyKXDndTVxAAHO_VOXIgpTDHz8Nq7aquWdbSsiem7BtrQ8XB3zGV5GxX0yJfTtWHRPepD6SrZ-HPkAQtK4IBTTQeuTlapPSEPltNcdjdNC6w#_
+
+
+Сервер устанавливается
+Запишите эти данные, т.к. в целях безопасности мы не храним логины и пароли к клиентским серверам и ПО.
+Для доступа к Ubuntu
+логин:
+пароль:
+root
+vympa8peen
+
+
+
+
+
+
+
+magazine
+
+IGQVJXeUpUQlhfSWRsYU43aUpjd1VUcmgwZA1Fjem5FY0J1RjRmVzFQbXZA5d1hwZAnI1bm5nOUhtUXFwZA1o4dlBBVzRWTGdQMUZAuQ0l5S2xackRYYThjclR6VEF4aUp0OHh2bGxIQUp3
+{'access_token': 'IGQVJXeUpUQlhfSWRsYU43aUpjd1VUcmgwZA1Fjem5FY0J1RjRmVzFQbXZA5d1hwZAnI1bm5nOUhtUXFwZA1o4dlBBVzRWTGdQMUZAuQ0l5S2xackRYYThjclR6VEF4aUp0OHh2bGxIQUp3', 'token_type': 'bearer', 'expires_in': 5183999}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================================================-
+
+
+
+
+keyboard = types.reply_keyboard.ReplyKeyboardMarkup(True, True)
+keyboard.row('хочу сейчас', 'на адрес')
+keyboard.row('/help')
+
+keyboard2 = types.reply_keyboard.ReplyKeyboardMarkup(True, True)
+keyboard2.row('/help')
+
+@dp.message_handler(commands=['take_geo'])
+async def process_geopos_command(message: types.Message):
+        # Эти параметры для клавиатуры необязательны, просто для удобства
+        keyboard1 = types.ReplyKeyboardMarkup(True, True)
+        button_phone = types.KeyboardButton(text="Отправить номер телефона", request_contact=True)
+        button_geo = types.KeyboardButton(text="Отправить местоположение", request_location=True)
+        keyboard1.add(button_phone, button_geo)
+        await bot.send_message(message.chat.id,
+                         "Отправь мне свой номер телефона или поделись местоположением, жалкий человечишка!",
+                         reply_markup=keyboard1)
+
+
+@dp.message_handler(commands=['start'])
+async def process_start_command(message: types.Message):
+    await message.reply("Привет!\nначнем покупки!", reply_markup=keyboard)
+
+@dp.message_handler(commands=['help'])
+async def process_help_command(message: types.Message):
+   
+    await message.reply("Привет!\nя агрегатор, сча агрегирую тебя..\nвведите /catalog чтобы увидеть каталог ближайших магазинов\nвведите /start чтобы начать покупку'\n'введите /take_geo чтобы указать номер и местоположение  ")
+
+@dp.message_handler(commands=['new_magazine'])
+async def init_inst(message: types.Message):
+    await message.reply(text=url)
+
+
+
+@dp.message_handler(commands=['catalog'])
+async def process_help_command(message: types.Message):
+    instagram_basic_display = InstagramBasicDisplay(app_id='2522407768052022',
+                                                    app_secret='3b3f09a4b2515c27bc7c000103c508e9',
+                                                    redirect_url='https://allflowersbot.github.io/allflowers.github.io/auth')
+
+    print(instagram_basic_display.get_login_url())  # Returns login URL you need to follow
+
+    instagram_basic_display.set_access_token(
+        'IGQVJWSjF3bTMtbm4yNlRQNXBfZA20wbWI4S1FsTXZATcFJRaW9NYkdnNXFnLXNYcWx6R3NYMlI1bnZASLXg1bHk1dFhvb3QySG9xVGIxLVlMS19CbWstMHNCTWUzc1lWOUtqUkZAZAbHRCNDJadkFnSVBJUjE0QmUwcmpiVFZA3')
+
+    # Get the users profile
+    profile = instagram_basic_display.get_user_profile()
+
+    media = instagram_basic_display.get_user_media(limit=2)
+    #print(profile)
+    #print(media)
+    #print(type(media['data']))
+    huemo = media['data']
+    for current in huemo:
+        caption = current['caption']
+        image = current['media_url']
+        await message.answer_photo(image,caption)
+
+@dp.message_handler()
+async def echo(message: types.Message):
+
+    if message.text == 'на адрес' :
+        await bot.send_message(message.chat.id, "укажите адрес доставки", reply_markup=keyboard2)
+    else:
+        await bot.send_message(message.from_user.id, message.text)
+
+
+
+
+
+if __name__ == '__main__':
+
+
+===============================================
+
+
+
+
+
+
+
+
+
+layout: page
+title: "auth"
+permalink: /auth/
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+{{code}}
+
+
+
+
+i = tmp.find("Цена")
+        k = tmp.find('#')
+        if k < 0 :
+            k = len(tmp)
+        image = current['media_url']
+
+        if i>0 :
+            cap = tmp[i:k]
+            match = re.search(r'\d{4}', tmp)
+
+            tmp = match[0] + '0'
+            PRICE.amount = int(tmp)
+            i = 0
+        else :
+            match = re.search(r'\d{4}', tmp[:k])
+
+            if match :
+                tmp = match[0] + '0'
+                PRICE.amount = int(tmp)
+            else :
+                print(tmp[:k], "enter to support")
+                continue
+                
+                
+                
+                
+([цЦ]ена[: -А-Яа-я]*\d{3,4})         
+
+
+
+
+([цЦ]ена[: -А-Яа-я]*\d{3,4})|(\d{1,3}[ :-]{1,2}[Шш]тук[иа]? [:(А-Яа-я \d{0,2})-]*)|      
+
+
+[Рр]оз, [Тт]юльпан
+
+Тюльпанов, роз, Гипсофила, Пионы, гортеа
+нзий, орхидей, розы, роз
+
+
+Розы, гортензии, Тюльпаны,
+пионы, хризантемы, гвоздики, 
+орхидеи, альстромерии, лилии
+Ранункулюсы, герберы, гипсофилы, 
+
+
+
+
+server {
+    location / {
+        proxy_pass http://localhost:8080/;
+    }
+
+    location ~ \.(gif|jpg|png)$ {
+        root /data/images;
+    }
+}
+
+Congratulations! Your certificate and chain have been saved at:
+   /etc/letsencrypt/live/allflowerbot.ru/fullchain.pem
+   Your key file has been saved at:
+   /etc/letsencrypt/live/allflowerbot.ru/privkey.pem
+
+
+
+#######################################3333##############
+
+            cnx = connect()
+            cursor = cnx.cursor()
+            sqlin = ("select len, shop_order_id "
+                     "from flobot.orders "
+                     "where client_order_id = '%s';")
+            value = (msg.chat.id,)
+            cursor.execute(sqlin, value)
+            # cnx.commit()
+            mcost = cursor.fetchone()
+            add_cost = 0
+            distance = mcost[0]
+            shop_id = mcost[1]
+            cnx.close()
+
+            if distance > 1.4:
+                add_cost = (int(distance) - 1.4) * 50
+                print(distance, add_cost, "dist + add")
+
+            number = 0
+            PRICE = types.LabeledPrice(label='букет ', amount=0)
+
+            await bot.send_message(msg.chat.id, "ознакомьтесь с товарами по акции :", reply_markup=REP_KEY_WHEN_INLINE)
+            i = 0
+
+            import mysql.connector
+            cnx = connect()
+
+            cursor = cnx.cursor()
+
+            sqlin = ("select id, file_id, caption, categories, cost "
+                     "from flobot.products "
+                     "where shop_id = '%s' and sale = 'sale';")
+            value = (shop_id,)
+            cursor.execute(sqlin, value)
+            flowers = cursor.fetchall()
+
+            for current in flowers:
+                print(current[0], current[4])
+                flag = 0
+                flagflo = 0
+                PRICE.amount = (int(current[4]) + int(add_cost))
+                # * 100
+                print(distance, add_cost, PRICE.amount, "qq")
+
+                # flower = re.search(regex_dict[capture], current[3])
+
+                number += 1
+                kb1 = types.InlineKeyboardMarkup()
+                bm1 = types.InlineKeyboardButton("+", callback_data='button1')
+                bm2 = types.InlineKeyboardButton("-", callback_data='button2')
+
+                kb1.add(bm1, bm2)
+                ch = await bot.send_photo(msg.chat.id, photo=current[1],
+                                          caption=current[2] + "конечная стоимость:" + str(
+                                              PRICE.amount) + " доставка:" + str(int(add_cost)) + "\n#" + str(
+                                              current[0]) + "#", reply_markup=kb1)
+                ID = ch.photo[-1].file_id
+                ID2 = current[1]
+                i = int(i) + int(1)
+            ## end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select id, file_id, caption, categories, cost from flobot.products where shop_id = '%s' and cost <= %s or default_bucket is true;
+
+
+select id, file_id, caption, categories, cost from flobot.products where (shop_id = ''%s' and cost <= %s) or (default_bucket is true and cost <=%s);
+
+
+
+
+
+
+
+
+
+        products = curs.fetchall()
+        print("products")
+        print(products)
+        print("end")
+        for row in products:
+            categ = row[0]
+            for key in regex_dict:
+                res = re.search(regex_dict[key], categ)
+                print("res={}".format(res))
+                if res is not None and len(res[0]) > 1:
+                    try:
+                        key_dict[key] += 1
+                    except:
+                        print("add_new_categ {}".format(key))
+                        key_dict.update({key: 1})
+        print("key_dict={}".format(key_dict))
+        keys = types.ReplyKeyboardMarkup(True, True)
+        max = 15
+        iter = 1
+        btns = []
+        j = 0
+        for key in key_dict:
+            znach = key_dict[key]
+            stroka1 = key + ' ' + znach.__str__()
+            btn = stroka1
+            btns.append(btn)
+            keys.row(btn)
+            j += 1
+
+        print(btns)
+        tuple(btns)
+        # print("tut")
+        if j == 0:
+            await bot.send_message(user_id,
+                                   "🔥💐выберите другой",
+                                   reply_markup=COST)
+            return -1
+        keys.row("☆ ↩️ Назад ↩️ ☆")
+        # keys.row("к магазинам")
+    await state.set_state(States.FAST_SEARCH_CATALOG)
+    info = {"los":list_of_shop, 'cost': cost_str}
+    await state.update_data(list_of_shop=info)
+    await bot.send_message(user_id,
+                           "🔥💐Отлично,выберите нужный цветок",
+                           reply_markup=keys)
