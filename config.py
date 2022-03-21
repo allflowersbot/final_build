@@ -1,6 +1,6 @@
-BOT_TOKEN = '1435159375:AAHgbJ3NhRjfT9Pbvf_6AeN7ol57s8BeJGc'
-TEST_BOT_TOKEN = '1636467417:AAEIGpRUNU0H_3RWwtGp7fH3A0imJVsMlQA'
-PAYMENTS_PROVIDER_TOKEN = '390540012:LIVE:13844'
+BOT_TOKEN = 'your bot token'
+TEST_BOT_TOKEN = 'your test bot token? try env var'
+PAYMENTS_PROVIDER_TOKEN = 'in mu situation it was yomoney'
 
 Account_Id ='766907'
 Secret_Key = 'live_5d2w9PQ-_VTgS0Twehj5-PPGjLCyg1Is5ra1caJH4d0'
